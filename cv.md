@@ -39,7 +39,7 @@ def duplicate_count(text):
 
 ---
 ### Experience:
-Projects:
+**Projects:**
 * [Houston.html](https://github.com/B1UR4y/Houston)
 
 ---
