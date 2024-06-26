@@ -8,7 +8,7 @@
 
 **Discord:** lorkhkanknight
 
-**RS-School Discord server:** Lorkhan | BLURay (@B1UR4y)
+**RS-School Discord server:** Lorkhan \| BLURay (@B1UR4y)
 
 **Telegram:** [Alexander Nobles](https://t.me/Alexander_Nobles)
 
