@@ -6,7 +6,7 @@
 
 **GitHub:** [B1UR4y](https://github.com/B1UR4y)
 
-**Discord:** lorkhkanknight
+**Discord:** lorkhanknight
 
 **RS-School Discord server:** Lorkhan \| BLURay (@B1UR4y)
 
