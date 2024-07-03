@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+  .photo {
+    width: 25%;
+    height: 25%;
+  }
+  .gitlogo {
+    width: 8%;
+    height: 8%;
+  }
+  .rslogo {
+    width: 20%;
+    height: 20%;
+  }
